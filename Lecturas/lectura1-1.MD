@@ -1,5 +1,4 @@
-# Crítica: _Item-Based Collaborative Filtering Recommendation
-Algorithms_
+# Crítica: _Item-Based Collaborative Filtering Recommendation Algorithms_
 
 El ensayo en cuestión presenta una alternativa basada en _items_ para los algoritmos de _collaborative filtering_,
 los cuales generalmente son enfocados en usuarios implementados en distintos sitios de _E-Commerce_. Como explica el paper, en el momento de su publicación, los algoritmos
