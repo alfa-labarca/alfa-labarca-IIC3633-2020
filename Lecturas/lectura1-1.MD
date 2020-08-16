@@ -1,4 +1,4 @@
-#Crítica: _Item-Based Collaborative Filtering Recommendation
+# Crítica: _Item-Based Collaborative Filtering Recommendation
 Algorithms_
 
 El ensayo en cuestión presenta una alternativa basada en _items_ para los algoritmos de _collaborative filtering_,
